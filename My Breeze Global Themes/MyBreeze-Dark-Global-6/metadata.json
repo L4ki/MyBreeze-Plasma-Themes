@@ -1,0 +1,38 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "MyBreeze-Dark-Global-6",
+        "Description": "MyBreeze-Dark Global Theme by l4k1",
+        "Id": "MyBreeze-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/MyBreeze-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2217407",
+        "kns://window-decorations.knsrc/api.kde-look.org/2217399",
+        "kns://window-decorations.knsrc/api.kde-look.org/2217403",
+        "kns://colorschemes.knsrc/api.kde-look.org/2217383",
+        "kns://colorschemes.knsrc/api.kde-look.org/2217382",
+        "kns://colorschemes.knsrc/api.kde-look.org/2011589",
+        "kns://icons.knsrc/api.kde-look.org/1281798",
+        "kns://icons.knsrc/api.kde-look.org/2192428",
+        "kns://icons.knsrc/api.kde-look.org/2148992",
+        "kns://icons.knsrc/api.kde-look.org/2136240",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2217414",
+        "kns://wallpaper.knsrc/api.kde-look.org/2217376",
+        "kns://wallpaper.knsrc/api.kde-look.org/2217377",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2217381"
+    ]
+}

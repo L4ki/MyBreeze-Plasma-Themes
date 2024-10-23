@@ -1,0 +1,30 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kdeglobals][General]
+ColorScheme=MyBreezeDarkColor
+
+[kdeglobals][Icons]
+Theme=Breeze Chameleon Dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[Wallpaper]
+Image=MyBreeze Wallpaper
+
+[plasmarc][Theme]
+name=MyBreeze-Dark-Plasma
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__MyBreeze-Color-Dark-Aurorae-6
+
+[KSplash]
+Theme=Plasma-Splash-6
