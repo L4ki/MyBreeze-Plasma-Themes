@@ -54,4 +54,4 @@ Update: metadata.desktop
 GTK Theme
 ----------
 
-Upodate: gtkrc
+Update: gtkrc
