@@ -1,14 +1,12 @@
 [Desktop Entry]
-Name=MyBreeze-Dark-Plasma
 Comment=MyBreeze Dark Plasma Theme by l4k1
+Name=MyBreeze-Dark-Plasma
 X-KDE-PluginInfo-Author=l4k1
-X-KDE-PluginInfo-Email=l4k1987@gmail.com
-X-KDE-PluginInfo-Name=MyBreeze-Dark-Plasma
-X-KDE-PluginInfo-Version=1.6
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=MyBreeze-Dark-Plasma
+X-KDE-PluginInfo-Version=1.0.2
 X-Plasma-API=5.0
-
-
