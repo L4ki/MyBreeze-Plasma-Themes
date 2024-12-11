@@ -698,16 +698,18 @@ style "default" {
 
     image {
       function    = HANDLE
-      file        = "assets/handle-horz.png"
-      border      = {0, 0, 4, 4}
+      overlay_file        = "assets/handle-horz.png"
+      #border      = {0, 0, 4, 4}
       orientation = HORIZONTAL
+      overlay_stretch = FALSE
     }
 
     image {
       function    = HANDLE
-      file        = "assets/handle-vert.png"
-      border      = {4, 4, 0, 0}
+      overlay_file        = "assets/handle-vert.png"
+      #border      = {4, 4, 0, 0}
       orientation = VERTICAL
+      overlay_stretch = FALSE
     }
 
     image {
