@@ -38,13 +38,13 @@ Screenshots "MyBreeze-Dark-Plasma":
 ___________________________________________________________________________________________
 
 
-Changelog: 18.12.2024.
+Changelog: 25.12.2024.
 ---------------------
 
 Plasma Theme
 -------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
 Aurorae Themes
 --------------
@@ -54,4 +54,4 @@ Update: metadata.desktop
 GTK Theme
 ----------
 
-Update: styles
+Update: gtkrc
