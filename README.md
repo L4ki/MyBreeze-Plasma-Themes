@@ -38,20 +38,15 @@ Screenshots "MyBreeze-Dark-Plasma":
 ___________________________________________________________________________________________
 
 
-Changelog: 26.02.2025.
+Changelog: 05.03.2025.
 ---------------------
 
 Plasma Theme
 -------------
 
-Update: metadata.json
-
-Aurorae Themes
---------------
-
-Update: metadata.desktop
+Update: plasmarc
 
 GTK Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
