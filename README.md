@@ -1,4 +1,4 @@
-![5-logo](https://github.com/user-attachments/assets/43c84ea3-750e-40bc-ab01-220638aea15a)
+
 # MyBreeze-Plasma-Themes
 MyBreeze Themes For Plasma Desktop
 
